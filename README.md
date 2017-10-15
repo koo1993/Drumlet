@@ -3,16 +3,16 @@ Drumlet is a cost-efficient method for drummers to play the drums anywhere, anyt
 
 ## Hackers
 [Francis Lee](https://github.com/fustilio)
-(https://github.com/Jeremylsw)[Jeremy Long]
-(https://github.com/koo1993)[Wayne Koo]
-(https://github.com/shanwpf)[Shannon Wong]
+[Jeremy Long](https://github.com/Jeremylsw)
+[Wayne Koo](https://github.com/koo1993)
+[Shannon Wong](https://github.com/shanwpf)
 
 
 ## YouTube Demo Link
-(https://www.youtube.com/watch?v=5jdy1lruVHc&feature=youtu.be)[Click Here]
+[Click Here](https://www.youtube.com/watch?v=5jdy1lruVHc&feature=youtu.be)
 
 ## Inspiration 
-When brainstorming a hack to work on, a groupmate played a video of a [https://www.youtube.com/watch?v=A_kloG2Z7tU](comedy) scene of Rowan Atkinson playing the air drum. Given the limited resources we have (Two Arduinos and a number of sensors which can be only counted with one hand), we then decided to work on this hack to make an air drum with whatever we can find. Although there are air drums in the market today, a pair of air drums costs about 157 Euros which is about [http://aerodrums.com/shop-policies/](250 SGD). Our main focus was then to make a pair of air drums which was cost efficient such that individuals who would like to get the feel of playing the drums without spending a bomb can get to enjoy the drumming experience.
+When brainstorming a hack to work on, a groupmate played a video of a [comedy](https://www.youtube.com/watch?v=A_kloG2Z7tU) scene of Rowan Atkinson playing the air drum. Given the limited resources we have (Two Arduinos and a number of sensors which can be only counted with one hand), we then decided to work on this hack to make an air drum with whatever we can find. Although there are air drums in the market today, a pair of air drums costs about 157 Euros which is about [250 SGD](http://aerodrums.com/shop-policies/). Our main focus was then to make a pair of air drums which was cost efficient such that individuals who would like to get the feel of playing the drums without spending a bomb can get to enjoy the drumming experience.
 
 ## What It Does
 A Drumlet is an air drum that is able to play eight unique drum sounds
@@ -33,6 +33,6 @@ Technical skills, debugging hardware problems are a pain and sleep is for the we
 Making it more cost-efficient, wireless, portable, aesthetic.
 
 ## Acknowledgements
-[https://diyhacking.com/arduino-mpu-6050-imu-sensor-tutorial/](MPU 6050 Tutorial By Arvind Sanjeev)
+[MPU 6050 Tutorial By Arvind Sanjeev](https://diyhacking.com/arduino-mpu-6050-imu-sensor-tutorial/)
 
 
