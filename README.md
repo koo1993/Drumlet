@@ -1,4 +1,4 @@
-# Drumlet
+# Drumlet (INTUition Hackaton)
 Drumlet is a cost-efficient method for drummers to play the drums anywhere, anytime.
 
 ## Hackers
