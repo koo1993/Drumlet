@@ -2,10 +2,10 @@
 Drumlet is a cost-efficient method for drummers to play the drums anywhere, anytime.
 
 ## Hackers
-[Francis Lee](https://github.com/fustilio)
-[Jeremy Long](https://github.com/Jeremylsw)
-[Wayne Koo](https://github.com/koo1993)
-[Shannon Wong](https://github.com/shanwpf)
+[Francis Lee](https://github.com/fustilio) 
+[Jeremy Long](https://github.com/Jeremylsw) 
+[Wayne Koo](https://github.com/koo1993) 
+[Shannon Wong](https://github.com/shanwpf) 
 
 
 ## YouTube Demo Link
